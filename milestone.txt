@@ -1,6 +1,6 @@
 aws
 ============================
-register secret tokens []
+register secret tokens [v]
   * consumer_key=[consumer key],
   * consumer_secret=[consumer secret],
   * access_token_key=[access token],
