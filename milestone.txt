@@ -6,7 +6,7 @@ register secret tokens [v]
   * access_token_key=[access token],
   * access_token_secret=[access token secret])
 
-add cloudwatch trigger
+add cloudwatch trigger => using Amazon EventBridge
 
 
 code
