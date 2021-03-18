@@ -3,8 +3,12 @@ from messages import messages
 
 
 def lambda_handler(event, context):
-    # TODO implement
+    nagging()
     return {
         'statusCode': 200,
         'body': json.dumps('Hello from Lambda!')
     }
+
+
+def nagging():
+    pass
