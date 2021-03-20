@@ -15,4 +15,4 @@ messages.py
   * make random messages in message []
 
 lambda_function.py
-  * tweet message []
+  * tweet message [v]
