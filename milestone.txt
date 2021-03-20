@@ -12,7 +12,7 @@ add cloudwatch trigger => using Amazon EventBridge
 code
 ============================
 messages.py
-  * make random messages in message []
+  * make random messages in message [v]
 
 lambda_function.py
   * tweet message [v]
