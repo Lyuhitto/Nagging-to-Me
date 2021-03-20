@@ -5,7 +5,7 @@ import boto3
 from messages import messages
 
 
-ssm = boto3.client('ssm', region_name='ap-northease-2')
+ssm = boto3.client('ssm', region_name='ap-northeast-2')
 
 
 def authenticate_twitter():
